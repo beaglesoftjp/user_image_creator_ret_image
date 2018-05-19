@@ -23,7 +23,7 @@ provider:
 
 package:
   include:
-    - ipag.ttf
+    - GenJyuuGothicX-P-Bold.ttf
 
 functions:
   handle:
